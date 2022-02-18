@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benmams59
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in cybersecurity, coding and application development
 - 🌱 I’m currently learning application development
 - 💞️ I’m looking to collaborate on application development
 - 📫 How to reach me ...
